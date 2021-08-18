@@ -1,0 +1,98 @@
+body {
+    background-color: #4360a964;
+    margin: 0 auto;
+  }
+  
+  .header {
+    background-color:#86fefe;
+    text-align: center;
+    padding: 25px;
+  }
+  
+  .title-row {
+    margin-top: 60px;
+    margin-bottom: 21px;
+    text-align: center;
+  }
+
+  .game-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #F15BB5;
+  }
+  
+  .instructions-title {
+    display: inline;
+    font-size: 30px;
+    color: #86fefe;
+    font-family: 'Work Sans';
+  }
+  
+  .instructions-row {
+    margin: 0 auto;
+    width: 600px;
+  }
+  
+  .instructions-number {
+    padding-right: 20px;
+    font-family: ‘Work Sans’;
+    font-size: 30px;
+    color: #86fefe;
+  }
+  
+  .instructions-text {
+    padding: 10px;
+    font-family: ‘Work Sans’;
+    font-size: 20px;
+    color: #ffffff;
+  }
+  
+  #door-row {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .door-frame {
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .start-row {
+    margin: auto;
+    height: 50px;
+    background-color: #eede76;
+    padding-top: 25px;
+    font-size: 22px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .score-row {
+    text-align: center;
+    width: 100%;
+    padding-top: 45px;
+  }
+  
+  .score-text {
+    display: inline;
+    padding: 7px;
+    font-family: 'Work Sans';
+    font-size: 12px;
+    letter-spacing: 1.1px;
+    color: #ffffff;
+  }
+  
+  .score-box {
+    margin-top: 9px;
+    display: inline-block;
+    padding: 8px;
+    margin: 22px;
+    width: 60px;
+    background-color: #86fefe  ;
+    font-family: 'Work Sans';
+    font-size: 45px;
+  }
+  
+  
